@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "stock-report-jupyter.ipynb"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.9.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.2.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "stock-report-jupyter.ipynb": {
+      "checksum": "f2a0dcabe1b0ea74fdddc92558798727"
+    },
+    "requirements.txt": {
+      "checksum": "5f8786ee8b8197b70a87c265d36d5a7a"
+    }
+  }
+}
